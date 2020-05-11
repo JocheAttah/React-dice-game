@@ -1,0 +1,28 @@
+.Die{
+    display: flex;
+    flex-direction: column;
+
+
+    
+    &__dice{
+        font-size: 10rem;
+        margin: 3rem 1rem 5rem 1rem;
+        color: #E32448;
+
+    }
+
+
+    // &__button {
+    // width: 12rem;
+    // padding: 1.5rem;
+    // align-self: center;
+    // Background-color: #e32448;
+    // border: 0;
+    // outline: none;
+    // border-radius: 10px;
+
+    // }
+
+
+
+}
